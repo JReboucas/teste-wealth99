@@ -5,7 +5,4 @@ module.exports = {
     },
     publicPath:
         process.env.NODE_ENV === 'production' ? '/teste-wealth99/' : '/',
-        outputDir: 'docs', 
-        assetsDir: './',
-        indexPath: 'index.html'
 }
