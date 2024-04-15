@@ -5,6 +5,6 @@ module.exports = {
     },
     publicPath:
         process.env.NODE_ENV === 'production'
-            ? '/teste-wealth/'
+            ? '/teste-wealth99/'
             : '/',
 }

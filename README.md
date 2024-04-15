@@ -15,7 +15,7 @@
 
 <br />
 
-## You can use and test this project by clicking [here.](https://jreboucas.github.io/Frontend_Technical_Test/)
+## You can use and test this project by clicking [here.](https://jreboucas.github.io/teste-wealth99/)
 
 <br />
 <br />
