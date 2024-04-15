@@ -10,9 +10,7 @@
     },
     "scripts": {
         "dev": "vue-cli-service serve",
-        "build": "vue-cli-service build",
-        "test": "jest",
-        "cypress:open": "cypress open"
+        "build": "vue-cli-service build"
     },
     "dependencies": {
         "apexcharts": "^3.36.0",
@@ -21,7 +19,7 @@
         "core-js": "^3.6.5",
         "postcss": "^7.0.39",
         "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
-        "vue": "^2.6.11",
+        "vue": "^2.6.14",
         "vue-apexcharts": "^1.6.2",
         "vue-toastification": "^1.7.14",
         "vuetify": "^2.6.0"
@@ -43,7 +41,7 @@
         "sass-loader": "^10.0.0",
         "vue-cli-plugin-vuetify": "~2.5.8",
         "vue-jest": "^3.0.7",
-        "vue-template-compiler": "^2.6.11",
+        "vue-template-compiler": "^2.7.16",
         "vuetify-loader": "^1.7.0"
     },
     "browserslist": [

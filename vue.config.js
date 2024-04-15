@@ -4,7 +4,8 @@ module.exports = {
         proxy: 'https://api.coingecko.com/api/v3',
     },
     publicPath:
-        process.env.NODE_ENV === 'production'
-            ? '/teste-wealth99/'
-            : '/',
+        process.env.NODE_ENV === 'production' ? '/teste-wealth99/' : '/',
+        outputDir: 'docs', 
+        assetsDir: './',
+        indexPath: 'index.html'
 }
